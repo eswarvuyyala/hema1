@@ -1,13 +1,4 @@
-# node-todo-cicd
+# Synopsis
 
-sudo apt install nodejs
-sudo apt install npm
-
-
-npm install
-
-node app.js
-
-# follow my blog for EKS deployment
-
-https://sunitabachhav2007.hashnode.dev/jenkins-cicd-with-amazon-eks
+This shows usage of a simple build wrapper, specifically the
+AnsiColor plugin, which adds ANSI coloring to the console output.
